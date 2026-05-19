@@ -1,47 +1,92 @@
 # Escola do Real
 
-Public project showcase for a private production app.
+Public showcase for a private production app.
 
-Escola do Real is a mobile learning product focused on practical financial education. The full application source code is private, but this repository documents the product, implementation approach, and production readiness work behind it.
+[Open the live app](https://escola-do-real--jcarval2.replit.app/cursos)
 
-## What It Is
+Escola do Real is a mobile-first financial education app for Brazilians who want to understand money, get organized, and build a healthier relationship with their personal finances.
 
-Escola do Real is designed to help users learn financial concepts through a mobile-first experience. The project combines structured learning flows, user progress, authentication, and production deployment preparation.
+The complete source code is private. This repository presents the product, the learning material, and the work behind the project without exposing proprietary implementation details.
 
-## Project Highlights
+## Project Overview
 
-- Mobile-first app experience
-- User authentication and account flows
-- Course and lesson-oriented product structure
-- Progress-oriented learning experience
-- Production build configuration
-- App store deployment preparation
-- Private codebase with public product documentation
+I built Escola do Real as a complete education product, not just a software prototype. The project includes the app, the written learning material, and recorded online classes inside the platform.
+
+The app is currently awaiting App Store approval.
+
+## What I Built
+
+- Full mobile-first financial education app
+- Private production codebase
+- Guided learning paths with short classes
+- Personal finance wallet and budget experience
+- Library of written financial education guides
+- Original book: **O Primeiro Real**
+- Recorded online classes available inside the app
+- Production deployment workflow
+- App Store submission preparation
+
+## Product Areas
+
+### Biblioteca
+
+The Biblioteca section gives users access to written guides and educational material in a clear, approachable language for Brazil.
+
+It includes **O Primeiro Real**, an original beginner-friendly guide written for people taking their first step into financial education.
+
+### Trilhas
+
+The Trilhas section organizes the learning experience into structured paths. Users can move through short lessons, track progress, and build knowledge step by step.
+
+### Carteira
+
+The Carteira section helps users understand where their money goes by tracking income, spending, category budgets, and financial health indicators.
+
+## Original Education Content
+
+This project includes original learning content created for Escola do Real:
+
+- A complete financial education book
+- Recorded online classes
+- App-based learning paths
+- Practical guides for Brazilian users
+
+The goal is to make financial education feel direct, useful, and accessible instead of abstract or intimidating.
 
 ## Tech Stack
 
 - React Native / Expo
 - TypeScript
 - Supabase
-- GitHub-based version control
+- GitHub version control
 - Mobile production build tooling
-
-## Repository Structure
-
-This repository intentionally does not include the full app source code. It is a public-facing showcase for the project.
-
-The private production repository contains the implementation, deployment configuration, environment-specific setup, and app code.
-
-## Why The Source Is Private
-
-The app includes product-specific implementation details, private configuration, deployment workflows, and business logic that should not be published publicly.
-
-Keeping the source private protects the product while still making the work visible in a professional way.
+- Replit deployment for the live web preview
 
 ## Status
 
-The private app repository is actively maintained. This public repository exists to present the project clearly without exposing sensitive or proprietary code.
+- Live web preview available
+- Private production repository maintained separately
+- App submitted and awaiting App Store approval
+- Public showcase repository available here
+
+## Why The Source Code Is Private
+
+The app contains product-specific implementation details, private configuration, deployment workflows, and business logic that should not be published publicly.
+
+This public repository exists to present the project professionally while keeping the production codebase protected.
+
+## Screenshots
+
+Screenshots and product media will be stored in this repository as public showcase assets.
+
+Current planned media:
+
+- App wallet screen
+- Learning paths screen
+- Library screen
+- Book preview
+- Recorded class preview
 
 ## Owner
 
-Built and maintained by [7thcapitalist](https://github.com/7thcapitalist).
+Built, written, and recorded by [7thcapitalist](https://github.com/7thcapitalist).
