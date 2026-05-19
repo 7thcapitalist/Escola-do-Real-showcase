@@ -75,17 +75,37 @@ The app contains product-specific implementation details, private configuration,
 
 This public repository exists to present the project professionally while keeping the production codebase protected.
 
-## Screenshots
+## Product Preview
 
-Screenshots and product media will be stored in this repository as public showcase assets.
+### Carteira
 
-Current planned media:
+The wallet experience helps users understand income, spending, budgets, and financial health in one place.
 
-- App wallet screen
-- Learning paths screen
-- Library screen
-- Book preview
-- Recorded class preview
+<img src="assets/carteira.png" alt="Escola do Real wallet screen" width="320">
+
+### Trilhas
+
+Structured learning paths organize the classes into short, trackable journeys.
+
+<img src="assets/trilhas.png" alt="Escola do Real learning paths screen" width="320">
+
+### Biblioteca
+
+The library gives users access to written financial education guides, including the original book **O Primeiro Real**.
+
+<img src="assets/biblioteca.png" alt="Escola do Real library screen" width="320">
+
+### O Primeiro Real
+
+**O Primeiro Real** is the original financial education book written for the app.
+
+<img src="assets/livro.png" alt="O Primeiro Real book preview" width="520">
+
+### Recorded Classes
+
+The app includes recorded online classes created for Escola do Real.
+
+<img src="assets/aula.png" alt="Recorded online class preview" width="320">
 
 ## Owner
 
