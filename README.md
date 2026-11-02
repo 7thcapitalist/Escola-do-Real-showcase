@@ -8,6 +8,10 @@ Escola do Real is a mobile-first financial education app for Brazilians who want
 
 The complete source code is private. This repository presents the product, the learning material, and the work behind the project without exposing proprietary implementation details.
 
+## Background
+
+Escola do Real started as a financial education NGO I co-founded in high school in Goiânia, Brazil. It has reached 4,000+ students, in person and online, through volunteer-led classes. This app is the next step: the same material, available on a phone.
+
 ## Project Overview
 
 I built Escola do Real as a complete education product, not just a software prototype. The project includes the app, the written learning material, and recorded online classes inside the platform.
