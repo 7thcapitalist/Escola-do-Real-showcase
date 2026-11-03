@@ -10,7 +10,7 @@ The complete source code is private. This repository presents the product, the l
 
 ## Background
 
-Escola do Real started as a financial education NGO I co-founded in high school in Goiânia, Brazil. It has reached 4,000+ students, in person and online, through volunteer-led classes. This app is the next step: the same material, available on a phone.
+Escola do Real started as a financial education NGO I co-founded in high school in Goiânia, Brazil. It has reached 5,000+ students, in person and online, through volunteer-led classes. This app is the next step: the same material, available on a phone.
 
 ## Project Overview
 
